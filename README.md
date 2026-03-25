@@ -28,12 +28,12 @@ Used by **150+ schools** across Australia, New Zealand & the UK.
 
 ### 🛠️ [ServPal](https://servpal.ph)
 Multi-tenant SaaS digitizing service businesses in the Philippines.
-Appointments, customer loyalty programs, and online booking — all in one platform. Developed by **JKode IT Solutions**.
+Appointments, customer loyalty programs, and online booking — all in one platform. Developed by **JKODE IT Solutions**.
 > Laravel · Nuxt
 
 ### 🏓 [CourtGrid](https://courtgrid.ph)
 Multi-tenant court management, booking & marketplace platform.
-Courts can manage availability, accept bookings, and get discovered — all in one place. Developed by **JKode IT Solutions**.
+Courts can manage availability, accept bookings, and get discovered — all in one place. Developed by **JKODE IT Solutions**.
 > Laravel · Nuxt
 
 ### 💼 [JKODE IT Solutions](https://jkodeit.com)
