@@ -23,7 +23,7 @@ Laravel Forge · DigitalOcean · AWS (EC2, RDS) · Cloudflare · GitHub Actions
 
 ### 🥋 [AXIS Martial Arts](https://axismartialarts.com)
 SaaS platform for martial arts school management — scheduling, billing, student tracking & more.
-Used by **250+ schools** across Australia, New Zealand & the UK.
+Used by **150+ schools** across Australia, New Zealand & the UK.
 > Laravel · Nuxt
 
 ### 🛠️ [ServPal](https://servpal.ph)
