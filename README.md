@@ -44,7 +44,7 @@ My dev studio. Custom web apps, SaaS builds, and API integrations for clients ac
 ## 📬 Let's Connect
 
 - 💌 [jk@jkodeit.com](mailto:jk@jkodeit.com)
-- 🌐 [jkodeit.com](https://jkodeit.com)
+- 🌐 [jkodeit.com](https://jkodeit.com) *(WIP)*
 - 🇵🇭 Based in Cebu City
 
 ---
